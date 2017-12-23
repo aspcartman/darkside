@@ -8,7 +8,7 @@ The darkside of the golang. WIP
 ### Is it safe?
 As safe as a lightsaber. In hands of a Jadi it is a powerful tool, but in a hand of a youngling...
 
-You need to following things before using this package wisely:
+You need to know following things before using this package wisely:
 1. System Development fundamentals
 2. C, asm, goasm
 3. GoLang runtime & gc (it's required that you read sources and understand how all of the involved functions and mechanics work)

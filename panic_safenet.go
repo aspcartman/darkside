@@ -29,6 +29,7 @@ func SetUnrecoveredPanicHandler(hanler func(p *g.Panic)) {
 		}()
 
 		p := g.GetG().Panic
+
 		hanler(p)
 
 		for p != nil {
